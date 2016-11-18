@@ -7,7 +7,7 @@ If you run:
 
     php traits.php
 
-It will display
+It will display:
 
     Ducks can fly. Ducks can quack. Ducks can swim.
     Turkeys cannot fly. Turkeys cannot quack. Turkeys cannot swim.
